@@ -3,3 +3,9 @@ h1 {
     color: red;
     font-weight: 300;
 }
+
+p {
+    color: azure;
+    font-size: 40px;
+    padding: 20px;
+}
